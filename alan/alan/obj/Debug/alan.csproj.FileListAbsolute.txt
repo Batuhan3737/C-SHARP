@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\alan\alan\obj\Debug\alan.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\alan\alan\obj\Debug\alan.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\alan\alan\bin\Debug\alan.exe.config
+C:\Users\HP\Desktop\alan\alan\bin\Debug\alan.exe
+C:\Users\HP\Desktop\alan\alan\bin\Debug\alan.pdb
+C:\Users\HP\Desktop\alan\alan\obj\Debug\alan.exe
+C:\Users\HP\Desktop\alan\alan\obj\Debug\alan.pdb
+C:\Users\HP\Desktop\indata\alan\alan\bin\Debug\alan.exe.config
+C:\Users\HP\Desktop\indata\alan\alan\bin\Debug\alan.exe
+C:\Users\HP\Desktop\indata\alan\alan\bin\Debug\alan.pdb
+C:\Users\HP\Desktop\indata\alan\alan\obj\Debug\alan.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\indata\alan\alan\obj\Debug\alan.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\indata\alan\alan\obj\Debug\alan.exe
+C:\Users\HP\Desktop\indata\alan\alan\obj\Debug\alan.pdb

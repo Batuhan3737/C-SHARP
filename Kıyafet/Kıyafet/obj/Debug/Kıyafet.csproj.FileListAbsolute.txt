@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\bin\Debug\Kıyafet.exe.config
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\bin\Debug\Kıyafet.exe
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\bin\Debug\Kıyafet.pdb
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\obj\Debug\Kıyafet.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\obj\Debug\Kıyafet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\obj\Debug\Kıyafet.exe
+C:\Users\HP\Desktop\Kıyafet\Kıyafet\obj\Debug\Kıyafet.pdb
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\bin\Debug\Kıyafet.exe.config
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\bin\Debug\Kıyafet.exe
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\bin\Debug\Kıyafet.pdb
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\obj\Debug\Kıyafet.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\obj\Debug\Kıyafet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\obj\Debug\Kıyafet.exe
+C:\Users\HP\Desktop\indata\Kıyafet\Kıyafet\obj\Debug\Kıyafet.pdb

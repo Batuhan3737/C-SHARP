@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\bin\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.exe.config
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\bin\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.exe
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\bin\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.pdb
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\obj\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\obj\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\obj\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.exe
+C:\Users\HP\source\repos\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama\obj\Debug\Girilen sayıdan öncekilerei 2şer 2şer atlayarak toplama.pdb

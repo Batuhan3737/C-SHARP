@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\indata\Asal\bin\Debug\Asal.exe.config
+C:\Users\HP\Desktop\indata\Asal\bin\Debug\Asal.exe
+C:\Users\HP\Desktop\indata\Asal\bin\Debug\Asal.pdb
+C:\Users\HP\Desktop\indata\Asal\obj\Debug\Asal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\indata\Asal\obj\Debug\Asal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\indata\Asal\obj\Debug\Asal.exe
+C:\Users\HP\Desktop\indata\Asal\obj\Debug\Asal.pdb

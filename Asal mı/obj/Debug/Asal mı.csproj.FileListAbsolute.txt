@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\indata\Asal mı\obj\Debug\Asal mı.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\indata\Asal mı\obj\Debug\Asal mı.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\indata\Asal mı\bin\Debug\Asal mı.exe.config
+C:\Users\HP\Desktop\indata\Asal mı\bin\Debug\Asal mı.exe
+C:\Users\HP\Desktop\indata\Asal mı\bin\Debug\Asal mı.pdb
+C:\Users\HP\Desktop\indata\Asal mı\obj\Debug\Asal mı.exe
+C:\Users\HP\Desktop\indata\Asal mı\obj\Debug\Asal mı.pdb
