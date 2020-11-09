@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.exe
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.deps.json
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.runtimeconfig.json
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.dll
+C:\Users\HP\Desktop\Ckur\Ckur\bin\Debug\netcoreapp3.1\Ckur.pdb
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.AssemblyInfo.cs
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.dll
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.pdb
+C:\Users\HP\Desktop\Ckur\Ckur\obj\Debug\netcoreapp3.1\Ckur.genruntimeconfig.cache
